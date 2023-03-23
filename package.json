@@ -1,0 +1,31 @@
+{
+  "name": "cscs",
+  "version": "0.0.2",
+  "description": "just dummy package to exploration purpose, created by Id More Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idmore/exploration-create-own-npm-package.git"
+  },
+  "keywords": [
+    "exploration",
+    "dummy"
+  ],
+  "author": "Id More Academy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idmore/exploration-create-own-npm-package/issues"
+  },
+  "homepage": "https://github.com/idmore/exploration-create-own-npm-package#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1"
+  }
+}
